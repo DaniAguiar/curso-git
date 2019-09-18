@@ -1,4 +1,5 @@
 
+Fazendo alterações de commiT
 
 
 
@@ -12,6 +13,58 @@
 
 
 
-# Githu
-Arquivo de video aul
-editando
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
